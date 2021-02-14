@@ -1,0 +1,23 @@
+{
+  "name": "xmeme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "engines": {
+    "node": "14.15.0",
+    "npm": "6.14.8"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "curl": "^0.1.4",
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "mongoose": "^5.11.15",
+    "nodemon": "^2.0.7"
+  }
+}
